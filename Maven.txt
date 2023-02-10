@@ -1,0 +1,3 @@
+Jenkins - Git Repo
+
+Jenkins - Pom.xml - Textng,xml - Scripting - main functionality - Page object model
